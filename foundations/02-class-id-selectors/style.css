@@ -1,0 +1,20 @@
+/* style.css */
+
+.odd-class {
+    color: black;
+    background-color:rgb(219, 109, 109);
+    font-family:Verdana, Geneva, "DejaVu Sans", sans-serif;  
+}
+.large-class {
+    font-size: 24px;
+}
+#ID1 {
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+#ID2 {
+    background-color:lime;
+    font-size: 24px;
+    font-weight: bold;
+}
